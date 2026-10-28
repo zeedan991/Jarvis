@@ -1,0 +1,18 @@
+# Python virtual environments - NEVER commit these, they are huge
+venv/
+venv312/
+.env/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+# Test recordings and screenshots from your own testing
+test_mic_recording.wav
+*.wav
+screenshots/
+Desktop/jarvis/screenshots/
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

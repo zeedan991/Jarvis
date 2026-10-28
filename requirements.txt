@@ -1,0 +1,9 @@
+customtkinter
+ollama
+pyttsx3
+SpeechRecognition
+pyaudio
+requests
+pyautogui
+psutil
+pyjokes
